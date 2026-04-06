@@ -66,12 +66,12 @@ cd Skin_Cancer_Classification_System_using_YOLO26
 pip install -r requirements.txt
 ```
 2. Hướng dẫn tải Mô hình (Model Weights)
-- Do giới hạn về dung lượng lưu trữ của GitHub, các tệp trọng số (weights) của hệ thống Trợ lý AI Đa phương thức đã được lưu trữ trên nền tảng đám mây. Để chạy được dự án, vui lòng tải các mô hình dưới đây và đặt vào đúng thư mục cấu hình:
+- Để chạy được dự án, vui lòng tải mô hình dưới đây và đặt vào đúng thư mục cấu hình:
 - Model Weights (YOLO26)
 Để hệ thống có thể nhận diện chính xác, bạn cần tải xuống tệp trọng số đã được huấn luyện sẵn (Pre-trained weights).
   - Model: best.pt (YOLO26X Optimized)
   - Dung lượng: 55.4 MB
-  - Link tải: [Tải model tại đây ](https://drive.google.com/file/d/1yLbzMxDqWGWNEat6IbV6xV9iGD8VIejb/view?usp=sharing)(#)
+  - Link tải: [Tải model tại đây ](https://github.com/TranNhuKhaY512/Skin_Cancer_Classification_System_using_YOLO26/releases/download/v1.0.0/best.pt)(#)
   - Vị trí lưu trữ: Sau khi tải về, vui lòng đặt file vào thư mục gốc của dự án
 
 3. Khởi động hệ thống: 
