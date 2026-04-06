@@ -74,8 +74,8 @@ pip install -r requirements.txt
   - Link tải: [Tải model tại đây ](https://drive.google.com/file/d/1yLbzMxDqWGWNEat6IbV6xV9iGD8VIejb/view?usp=sharing)(#)
   - Vị trí lưu trữ: Sau khi tải về, vui lòng đặt file vào thư mục gốc của dự án
 
-3. Khởi động hệ thống
-Sau khi hoàn tất cấu hình, khởi động Web Server:
+3. Khởi động hệ thống: 
+- Sau khi hoàn tất cấu hình, khởi động Web Server:
 ```
 Bash
 streamlit run app/web.py
